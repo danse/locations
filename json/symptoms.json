@@ -25,8 +25,8 @@
   "name": "hiccups"
 }, {
   "code": "intense_fatigue",
-  "name": "intense fatigue"
-  "synonyms": ["malaise"],
+  "name": "intense fatigue",
+  "synonyms": ["malaise"]
 }, {
   "code": "loss_of_appetite",
   "name": "loss of appetite"
@@ -54,4 +54,8 @@
   "code": "maculopapular",
   "synonyms": ["haemorrhagic"],
   "name": "maculopapular"
+}, {
+  "code": "rash",
+  "name": "rash",
+  "description": "Post-viral rash. This is the type of rash that some patients presenting with EbolaZaire hemorrhagic (EBO-Z) fever will reveal but can be hard to see on dark skin people"
 }]
